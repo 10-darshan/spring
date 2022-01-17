@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+/home/kali10/Workspace/SpringToolsSuite/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes

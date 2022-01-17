@@ -1,0 +1,12 @@
+## Spring view resolver set up
+spring.mvc.view.prefix=/WEB-INF/jsp/
+spring.mvc.view.suffix=.jsp
+
+spring.jpa.hibernate.ddl-auto=create
+spring.jpa.show-sql=true
+spring.messages.basename=validation
+
+logging.level.root=info
+logging.level.org.springframework.web=debug
+logging.level.org.hibernate=error
+logging.file.name=/home/ubuntu/springlog/spring.log

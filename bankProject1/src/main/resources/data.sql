@@ -1,0 +1,1 @@
+insert into Bank values ('State Bank of India','Bengaluru Karnataka');
